@@ -1,3 +1,10 @@
+GMTKGithub/UserSettings/
+GMTKGithub/UserSettings
+GMTKGithub/Logs
+GMTKGithub/Logs/
+GMTKGithub/Library/ArtifactDB
+GMTKGithub/Library/PackageCache/com.unity.burst@1.6.5
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
